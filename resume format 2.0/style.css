@@ -1,0 +1,125 @@
+
+
+#heading{
+
+
+ 			color: orange;
+ 			margin-top: 20%;
+ 			margin-right: 10%;
+ 		}
+
+ 		#sub-heading{
+
+ 			margin-top: 10%;
+ 			font-size: 110%;
+ 			margin-right: 10%;
+ 		}
+
+ 		.image{
+
+ 			width: 100%;
+ 			height: 20%;
+ 			margin-right: 10%;
+ 			margin-top: 10%;
+ 			border: 2px solid #555;
+
+
+ 			
+ 		}
+
+ 		.label1,.label2,.label3{
+
+ 			font-family: Arial;
+ 			font-size: 150%;
+ 			position: relative;
+ 			top: 40px;
+ 			
+ 			
+ 			
+ 		}
+
+ 		.label4,.label5,.label6{
+
+ 			font-family: Arial Black;
+ 			font-size: 150%;
+ 			position: relative;
+ 			top: 90px;
+
+
+
+ 		}
+
+
+ 		.hr2{
+
+ 			border: 1px solid black;
+ 			position: relative;
+ 			margin-top: 20%;
+ 			width: 120%;
+
+
+ 		}
+ 		
+ 			
+ 		
+
+ 		hr{
+
+ 			border: 1px solid black;
+ 			position: relative;
+ 			top: 20px;
+ 			
+
+
+ 		}
+
+ 		p{
+
+ 			font-family: : Calibri (body);
+ 			margin-left: 0px;
+ 			
+ 			
+ 		}
+
+ 		.coloum2{
+
+ 			font-family: : Calibri (body);
+ 			margin-left: 2px;
+
+
+ 		}
+
+ 		.Summary{
+
+ 			font-family: : Calibri (body);
+ 			margin-left: 5px;
+ 			
+        }
+
+ 		ol.a{
+
+ 			list-style-type: square;
+ 			
+ 		}
+
+ 		ol.b,ol.d{
+
+ 			list-style-type: square;
+ 			margin-left: 2%;
+ 		}
+
+ 		ol.c{
+
+ 			list-style-type: square;
+ 			margin-left: 58%;
+ 			margin-top: -25%;
+ 		}
+ 		
+ 		
+
+
+
+
+
+
+ 	
